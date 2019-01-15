@@ -1,0 +1,20 @@
+{
+  "extensionDescription": {
+    "message": "Deaktiviert, bzw. aktiviert den Browser Cache.",
+    "description": "Description of the extension."
+  },
+
+  "button_title": {
+    "message": "Cache",
+    "description": "Text displayed next to button or as tooltip of the button"
+  },
+
+  "title_enabled": {
+    "message": "an",
+    "description": "Text displayed in the title if cache is ON."
+  },
+  "title_disabled": {
+    "message": "aus",
+    "description": "Text displayed in the title if cache is OFF."
+  }
+}
