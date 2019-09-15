@@ -1,5 +1,5 @@
 Toggle Cache
-====================
+============
 
 Main repository: https://github.com/M-Reimer/togglecache.
 
